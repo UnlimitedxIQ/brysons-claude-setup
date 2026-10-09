@@ -1,0 +1,7 @@
+{
+  "name": "NightOwl",
+  "base": "dark",
+  "overrides": {
+    "composerSidebarBackground": "#011627"
+  }
+}

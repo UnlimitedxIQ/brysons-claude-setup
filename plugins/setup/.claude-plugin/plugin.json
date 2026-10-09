@@ -1,0 +1,9 @@
+{
+  "name": "setup",
+  "version": "1.0.0",
+  "description": "Bryson's Claude Setup: pinboard, usage-meters, session-watch, cc-image-view and idle-opacity in one install",
+  "author": { "name": "Bryson Smith" },
+  "homepage": "https://github.com/UnlimitedxIQ/brysons-claude-setup",
+  "license": "MIT",
+  "dependencies": ["pinboard", "usage-meters", "session-watch", "cc-image-view", "idle-opacity"]
+}

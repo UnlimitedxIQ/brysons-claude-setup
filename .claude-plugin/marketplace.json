@@ -1,0 +1,37 @@
+{
+  "name": "brysons-claude-setup",
+  "description": "Bryson's Claude Setup: Claude Code plugins by Bryson Smith",
+  "owner": { "name": "Bryson Smith" },
+  "plugins": [
+    {
+      "name": "setup",
+      "source": "./plugins/setup",
+      "description": "Bryson's everyday Claude Code setup: installs all five mods below in one go"
+    },
+    {
+      "name": "pinboard",
+      "source": "./plugins/pinboard",
+      "description": "Sidebar where Claude keeps its todos, the questions it needs you to answer, links and key findings. From sirkitree/pinboard"
+    },
+    {
+      "name": "usage-meters",
+      "source": "./plugins/usage-meters",
+      "description": "One line above the prompt: 5-hour limit, weekly limit and context window as colored meters with reset times"
+    },
+    {
+      "name": "session-watch",
+      "source": "./plugins/session-watch",
+      "description": "One line above the prompt with every other background Claude session and whether it is working, done or needs you"
+    },
+    {
+      "name": "cc-image-view",
+      "source": "./plugins/cc-image-view",
+      "description": "Thumbnails of pasted images above the prompt (needs a terminal with kitty graphics, such as WezTerm). Adapted from jarrodwatts/claude-image-view"
+    },
+    {
+      "name": "idle-opacity",
+      "source": "./plugins/idle-opacity",
+      "description": "WezTerm window goes solid when Claude stops so the answer is easy to read, see-through while it works (needs terminal/wezterm.lua)"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "session-watch",
+  "version": "0.1.0",
+  "description": "One line above the prompt with every other background Claude session and whether it is working, done or needs you; a toast when one finishes",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "Bryson Smith"
+  },
+  "license": "MIT"
+}

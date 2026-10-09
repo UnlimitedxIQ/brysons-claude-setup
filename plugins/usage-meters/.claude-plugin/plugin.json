@@ -1,0 +1,10 @@
+{
+  "name": "usage-meters",
+  "version": "0.2.7",
+  "description": "One line above the prompt: 5-hour limit, weekly limit and context window as colored meters with reset times",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "Bryson Smith"
+  },
+  "license": "MIT"
+}

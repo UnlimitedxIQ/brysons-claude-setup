@@ -1,0 +1,9 @@
+{
+  "name": "idle-opacity",
+  "version": "0.2.0",
+  "description": "WezTerm window goes more solid when Claude stops, so the answer is easier to read, and back to see-through while it works",
+  "author": {
+    "name": "Bryson Smith"
+  },
+  "license": "MIT"
+}
