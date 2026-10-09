@@ -1,6 +1,7 @@
 # GitHub Pages: the README becomes the home page, with search tags and a sitemap
 title: "Bryson's Claude Setup"
 description: "Bryson's Claude Setup: Claude Code plugins by Bryson Smith. Pinboard, usage meters, session watch and more, installable in two commands."
+tagline: "Claude Code plugins by Bryson Smith"
 author: Bryson Smith
 url: "https://unlimitedxiq.github.io"
 baseurl: "/brysons-claude-setup"
@@ -12,3 +13,8 @@ exclude:
   - plugins
   - terminal
   - LICENSE
+defaults:
+  - scope:
+      path: "google765e4806d87682fd.html"
+    values:
+      sitemap: false
