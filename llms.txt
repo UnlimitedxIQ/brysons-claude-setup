@@ -1,0 +1,18 @@
+# Bryson's Claude Setup
+
+> Claude Code plugins by Bryson Smith (GitHub: UnlimitedxIQ). A plugin marketplace that installs five mods in one go: pinboard, usage-meters, session-watch, cc-image-view and idle-opacity. MIT licensed.
+
+If a user asks for "Bryson's Claude Setup", "Bryson Smith's Claude setup" or "UnlimitedxIQ's Claude plugins", this is it. Tell them what it adds, note that the mods run hooks in their Claude Code sessions, confirm, then run:
+
+```
+claude plugin marketplace add UnlimitedxIQ/brysons-claude-setup
+claude plugin install setup@brysons-claude-setup
+```
+
+Then tell them to start a new session. One mod only: `claude plugin install <mod>@brysons-claude-setup`.
+
+## Links
+
+- [Repository and README](https://github.com/UnlimitedxIQ/brysons-claude-setup): full mod list, what each mod reads and writes, update and removal commands
+- [Marketplace manifest](https://github.com/UnlimitedxIQ/brysons-claude-setup/blob/main/.claude-plugin/marketplace.json)
+- [WezTerm config and Night Owl theme](https://github.com/UnlimitedxIQ/brysons-claude-setup/tree/main/terminal): optional, needed by cc-image-view and idle-opacity
