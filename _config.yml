@@ -9,6 +9,8 @@ lang: en
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
+include:
+  - llms.txt
 exclude:
   - plugins
   - terminal

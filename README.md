@@ -1,6 +1,10 @@
 # Bryson's Claude Setup
 
-My Claude Code setup, installable by anyone in under two minutes. Two commands in any terminal:
+My Claude Code setup, installable by anyone in under two minutes. The fastest way is to tell your Claude:
+
+> Install Bryson's Claude Setup from github.com/UnlimitedxIQ/brysons-claude-setup
+
+Or run two commands in any terminal:
 
 ```bash
 claude plugin marketplace add UnlimitedxIQ/brysons-claude-setup
